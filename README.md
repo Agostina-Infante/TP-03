@@ -3,21 +3,21 @@ TP03, API
 
 Ejercicio 1: Mostrar usuarios (consola)
 Consigna:
-● Hacer un fetch
+● Hacer un fetch ✅
 ● Mostrar en consola:
-  ○ nombre
-  ○ email
+  ○ nombre ✅
+  ○ email ✅
   
 Ejercicio 2: Mostrar en pantalla (DOM)
 Consigna:
-● Mostrar los usuarios en HTML
-● Crear un <ul> con <li> por usuario
+● Mostrar los usuarios en HTML ✅
+● Crear un <ul> con <li> por usuario ✅
 ● Agregar estilos para que visualmente se vea atractivo.
 
 Ejercicio 3: Buscar usuario
 Consigna:
-● Crear un input
-● Filtrar usuarios por nombre
+● Crear un input ✅
+● Filtrar usuarios por nombre 
 ● Mostrar resultados utilizando DOM
 ● Agregar estilos para que visualmente se vea atractivo.
 
