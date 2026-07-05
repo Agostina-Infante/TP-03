@@ -34,9 +34,9 @@ Consigna:
 Ejercicio 5: Crear usuario
 
 Consigna:
-● Crear una función que envíe un usuario al servidor usando POST.
+● Crear una función que envíe un usuario al servidor usando POST. ✅
   ○ nombre
   ○ email
-● Validar que no esté vacío 
+● Validar que no esté vacío ✅
 ● Mostrar un mensaje que indique si la creación fue exitosa o no ✅
 ● Agregar estilos para que visualmente se vea atractivo.
