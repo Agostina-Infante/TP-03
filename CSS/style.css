@@ -1,3 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(127, 175, 230);
+}
+nav{
+    padding: 20px;
+    padding-bottom: 0;
+    display: flex;
+    background-color: white;
+}
+nav ul{
+    padding: 10px;
+    padding-bottom: 20;
+    margin-bottom: 0;
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    align-items: end;
+}
+nav ul li a{
+    padding: 10px;
+    margin: 30px;
+    margin-right: 5px;
+    margin-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgb(127, 175, 230);
+    color: rgb(42, 99, 165);
+    border-radius: 25% 25% 0 0;
+}
+nav ul li a:hover{
+    background-color: rgb(180, 211, 247);
+    color: rgb(42, 99, 165);
+}
+main{
+    padding: 5%;
+}
 h3{
     font-size: large;
     font-weight:bolder;
@@ -14,4 +55,26 @@ h3{
     text-decoration: none;
     color: inherit;
     cursor: pointer;
+}
+
+footer{
+    position: relative;
+    bottom: 0px;
+    width:100;
+    box-sizing: border-box;
+    padding: 30px 100px 30px 100px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+#ITLP{
+    height: 100px;
+    margin-right: 50px;
+}
+#listaUsuarios{
+    width: 30vw;
+    padding: 2%;
+    background-color: white;
+    border: 3px solid rgb(42, 99, 165);;
+    list-style: none;
 }
